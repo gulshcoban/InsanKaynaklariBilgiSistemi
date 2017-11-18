@@ -1,0 +1,90 @@
+c:\users\dark\documents\visual studio 2013\Projects\142802029-142802011\142802029-142802011\bin\Debug\142802029-142802011.exe.config
+c:\users\dark\documents\visual studio 2013\Projects\142802029-142802011\142802029-142802011\obj\Debug\142802029-142802011.csprojResolveAssemblyReference.cache
+c:\users\dark\documents\visual studio 2013\Projects\142802029-142802011\142802029-142802011\obj\Debug\_142802029_142802011.frmAnasayfa.resources
+c:\users\dark\documents\visual studio 2013\Projects\142802029-142802011\142802029-142802011\obj\Debug\_142802029_142802011.frmBasvuruYap.resources
+c:\users\dark\documents\visual studio 2013\Projects\142802029-142802011\142802029-142802011\obj\Debug\_142802029_142802011.frmDetaylar.resources
+c:\users\dark\documents\visual studio 2013\Projects\142802029-142802011\142802029-142802011\obj\Debug\_142802029_142802011.frmIlanVer.resources
+c:\users\dark\documents\visual studio 2013\Projects\142802029-142802011\142802029-142802011\obj\Debug\_142802029_142802011.Properties.Resources.resources
+c:\users\dark\documents\visual studio 2013\Projects\142802029-142802011\142802029-142802011\obj\Debug\142802029-142802011.csproj.GenerateResource.Cache
+c:\users\dark\documents\visual studio 2013\Projects\142802029-142802011\142802029-142802011\bin\Debug\142802029-142802011.exe
+c:\users\dark\documents\visual studio 2013\Projects\142802029-142802011\142802029-142802011\bin\Debug\142802029-142802011.pdb
+c:\users\dark\documents\visual studio 2013\Projects\142802029-142802011\142802029-142802011\obj\Debug\142802029-142802011.exe
+c:\users\dark\documents\visual studio 2013\Projects\142802029-142802011\142802029-142802011\obj\Debug\142802029-142802011.pdb
+C:\Users\Dark\Desktop\142802029-142802011\142802029-142802011\bin\Debug\142802029-142802011.exe.config
+C:\Users\Dark\Desktop\142802029-142802011\142802029-142802011\obj\Debug\142802029-142802011.exe
+C:\Users\Dark\Desktop\142802029-142802011\142802029-142802011\obj\Debug\142802029-142802011.pdb
+C:\Users\Dark\Desktop\142802029-142802011\142802029-142802011\bin\Debug\142802029-142802011.exe
+C:\Users\Dark\Desktop\142802029-142802011\142802029-142802011\bin\Debug\142802029-142802011.pdb
+C:\Users\Dark\Desktop\142802029-142802011\142802029-142802011\obj\Debug\_142802029_142802011.frmAnasayfa.resources
+C:\Users\Dark\Desktop\142802029-142802011\142802029-142802011\obj\Debug\_142802029_142802011.frmBasvuruYap.resources
+C:\Users\Dark\Desktop\142802029-142802011\142802029-142802011\obj\Debug\_142802029_142802011.frmDetaylar.resources
+C:\Users\Dark\Desktop\142802029-142802011\142802029-142802011\obj\Debug\_142802029_142802011.frmIlanVer.resources
+C:\Users\Dark\Desktop\142802029-142802011\142802029-142802011\obj\Debug\_142802029_142802011.Properties.Resources.resources
+C:\Users\Dark\Desktop\142802029-142802011\142802029-142802011\obj\Debug\142802029-142802011.csproj.GenerateResource.Cache
+C:\Users\Dark\Desktop\142802029-142802011\142802029-142802011\obj\Debug\142802029-142802011.csprojResolveAssemblyReference.cache
+C:\Users\Dark\Desktop\142802029-142802011(dosyalı)\142802029-142802011\bin\Debug\142802029-142802011.exe.config
+C:\Users\Dark\Desktop\142802029-142802011(dosyalı)\142802029-142802011\obj\Debug\142802029-142802011.exe
+C:\Users\Dark\Desktop\142802029-142802011(dosyalı)\142802029-142802011\obj\Debug\142802029-142802011.pdb
+C:\Users\Dark\Desktop\142802029-142802011(dosyalı)\142802029-142802011\bin\Debug\142802029-142802011.exe
+C:\Users\Dark\Desktop\142802029-142802011(dosyalı)\142802029-142802011\bin\Debug\142802029-142802011.pdb
+C:\Users\Dark\Desktop\142802029-142802011(dosyalı)\142802029-142802011\obj\Debug\_142802029_142802011.frmAnasayfa.resources
+C:\Users\Dark\Desktop\142802029-142802011(dosyalı)\142802029-142802011\obj\Debug\_142802029_142802011.frmBasvuruYap.resources
+C:\Users\Dark\Desktop\142802029-142802011(dosyalı)\142802029-142802011\obj\Debug\_142802029_142802011.frmDetaylar.resources
+C:\Users\Dark\Desktop\142802029-142802011(dosyalı)\142802029-142802011\obj\Debug\_142802029_142802011.frmIlanVer.resources
+C:\Users\Dark\Desktop\142802029-142802011(dosyalı)\142802029-142802011\obj\Debug\_142802029_142802011.Properties.Resources.resources
+C:\Users\Dark\Desktop\142802029-142802011(dosyalı)\142802029-142802011\obj\Debug\142802029-142802011.csproj.GenerateResource.Cache
+C:\Users\Dark\Desktop\142802029-142802011(dosyalı)\142802029-142802011\obj\Debug\142802029-142802011.csprojResolveAssemblyReference.cache
+C:\Users\Hüseyin\Desktop\Yeni klasör (2)\142802029-142802011(dosyalı)\142802029-142802011\bin\Debug\142802029-142802011.exe.config
+C:\Users\Hüseyin\Desktop\Yeni klasör (2)\142802029-142802011(dosyalı)\142802029-142802011\obj\Debug\142802029-142802011.exe
+C:\Users\Hüseyin\Desktop\Yeni klasör (2)\142802029-142802011(dosyalı)\142802029-142802011\obj\Debug\142802029-142802011.pdb
+C:\Users\Hüseyin\Desktop\Yeni klasör (2)\142802029-142802011(dosyalı)\142802029-142802011\bin\Debug\142802029-142802011.exe
+C:\Users\Hüseyin\Desktop\Yeni klasör (2)\142802029-142802011(dosyalı)\142802029-142802011\bin\Debug\142802029-142802011.pdb
+C:\Users\Hüseyin\Desktop\Yeni klasör (2)\142802029-142802011(dosyalı)\142802029-142802011\obj\Debug\142802029-142802011.csprojResolveAssemblyReference.cache
+C:\Users\Hüseyin\Desktop\Yeni klasör (2)\142802029-142802011(dosyalı)\142802029-142802011\obj\Debug\_142802029_142802011.frmAnasayfa.resources
+C:\Users\Hüseyin\Desktop\Yeni klasör (2)\142802029-142802011(dosyalı)\142802029-142802011\obj\Debug\_142802029_142802011.frmBasvuruYap.resources
+C:\Users\Hüseyin\Desktop\Yeni klasör (2)\142802029-142802011(dosyalı)\142802029-142802011\obj\Debug\_142802029_142802011.frmDetaylar.resources
+C:\Users\Hüseyin\Desktop\Yeni klasör (2)\142802029-142802011(dosyalı)\142802029-142802011\obj\Debug\_142802029_142802011.frmIlanVer.resources
+C:\Users\Hüseyin\Desktop\Yeni klasör (2)\142802029-142802011(dosyalı)\142802029-142802011\obj\Debug\_142802029_142802011.Properties.Resources.resources
+C:\Users\Hüseyin\Desktop\Yeni klasör (2)\142802029-142802011(dosyalı)\142802029-142802011\obj\Debug\142802029-142802011.csproj.GenerateResource.Cache
+C:\Users\Dark\Desktop\Yeni klasör (2)\142802029-142802011(dosyalı)\142802029-142802011\bin\Debug\142802029-142802011.exe.config
+C:\Users\Dark\Desktop\Yeni klasör (2)\142802029-142802011(dosyalı)\142802029-142802011\obj\Debug\142802029-142802011.exe
+C:\Users\Dark\Desktop\Yeni klasör (2)\142802029-142802011(dosyalı)\142802029-142802011\obj\Debug\142802029-142802011.pdb
+C:\Users\Dark\Desktop\BITTI\142802029-142802011\bin\Debug\142802029-142802011.exe.config
+C:\Users\Dark\Desktop\BITTI\142802029-142802011\obj\Debug\142802029-142802011.exe
+C:\Users\Dark\Desktop\BITTI\142802029-142802011\obj\Debug\142802029-142802011.pdb
+C:\Users\Dark\Desktop\BITTI\142802029-142802011\bin\Debug\142802029-142802011.exe
+C:\Users\Dark\Desktop\BITTI\142802029-142802011\bin\Debug\142802029-142802011.pdb
+C:\Users\Dark\Desktop\BITTI\142802029-142802011\obj\Debug\142802029-142802011.csprojResolveAssemblyReference.cache
+C:\Users\Dark\Desktop\BITTI\142802029-142802011\obj\Debug\_142802029_142802011.frmAnasayfa.resources
+C:\Users\Dark\Desktop\BITTI\142802029-142802011\obj\Debug\_142802029_142802011.frmBasvuruYap.resources
+C:\Users\Dark\Desktop\BITTI\142802029-142802011\obj\Debug\_142802029_142802011.frmDetaylar.resources
+C:\Users\Dark\Desktop\BITTI\142802029-142802011\obj\Debug\_142802029_142802011.frmIlanVer.resources
+C:\Users\Dark\Desktop\BITTI\142802029-142802011\obj\Debug\_142802029_142802011.Properties.Resources.resources
+C:\Users\Dark\Desktop\BITTI\142802029-142802011\obj\Debug\142802029-142802011.csproj.GenerateResource.Cache
+C:\Users\Hüseyin\Desktop\142802029-142802011\142802029-142802011\bin\Debug\142802029-142802011.exe.config
+C:\Users\Hüseyin\Desktop\142802029-142802011\142802029-142802011\obj\Debug\142802029-142802011.exe
+C:\Users\Hüseyin\Desktop\142802029-142802011\142802029-142802011\obj\Debug\142802029-142802011.pdb
+C:\Users\Hüseyin\Desktop\142802029-142802011\142802029-142802011\bin\Debug\142802029-142802011.exe
+C:\Users\Hüseyin\Desktop\142802029-142802011\142802029-142802011\bin\Debug\142802029-142802011.pdb
+C:\Users\Hüseyin\Desktop\142802029-142802011\142802029-142802011\obj\Debug\142802029-142802011.csprojResolveAssemblyReference.cache
+C:\Users\Hüseyin\Desktop\142802029-142802011\142802029-142802011\obj\Debug\_142802029_142802011.frmAnasayfa.resources
+C:\Users\Hüseyin\Desktop\142802029-142802011\142802029-142802011\obj\Debug\_142802029_142802011.frmBasvuruYap.resources
+C:\Users\Hüseyin\Desktop\142802029-142802011\142802029-142802011\obj\Debug\_142802029_142802011.frmDetaylar.resources
+C:\Users\Hüseyin\Desktop\142802029-142802011\142802029-142802011\obj\Debug\_142802029_142802011.frmIlanVer.resources
+C:\Users\Hüseyin\Desktop\142802029-142802011\142802029-142802011\obj\Debug\_142802029_142802011.Properties.Resources.resources
+C:\Users\Hüseyin\Desktop\142802029-142802011\142802029-142802011\obj\Debug\142802029-142802011.csproj.GenerateResource.Cache
+C:\Users\Hüseyin\Desktop\CBÜ SOFTWARE ENGİNEERİNG - 2.CLASS\Data Structure\Project\Veri Ypıları Projeeee\142802029-142802011\142802029-142802011\bin\Debug\142802029-142802011.exe.config
+C:\Users\Hüseyin\Desktop\CBÜ SOFTWARE ENGİNEERİNG - 2.CLASS\Data Structure\Project\Veri Ypıları Projeeee\142802029-142802011\142802029-142802011\obj\Debug\142802029-142802011.exe
+C:\Users\Hüseyin\Desktop\CBÜ SOFTWARE ENGİNEERİNG - 2.CLASS\Data Structure\Project\Veri Ypıları Projeeee\142802029-142802011\142802029-142802011\obj\Debug\142802029-142802011.pdb
+C:\Users\Hüseyin\Desktop\CBÜ SOFTWARE ENGİNEERİNG - 2.CLASS\Data Structure\Project\Veri Ypıları Projeeee\142802029-142802011\142802029-142802011\bin\Debug\142802029-142802011.exe
+C:\Users\Hüseyin\Desktop\CBÜ SOFTWARE ENGİNEERİNG - 2.CLASS\Data Structure\Project\Veri Ypıları Projeeee\142802029-142802011\142802029-142802011\bin\Debug\142802029-142802011.pdb
+C:\Users\Hüseyin\Desktop\CBÜ SOFTWARE ENGİNEERİNG - 2.CLASS\Data Structure\Project\Veri Ypıları Projeeee\142802029-142802011\142802029-142802011\obj\Debug\142802029-142802011.csprojResolveAssemblyReference.cache
+C:\Users\Hüseyin\Desktop\CBÜ SOFTWARE ENGİNEERİNG - 2.CLASS\Data Structure\Project\Veri Ypıları Projeeee\142802029-142802011\142802029-142802011\obj\Debug\_142802029_142802011.frmAnasayfa.resources
+C:\Users\Hüseyin\Desktop\CBÜ SOFTWARE ENGİNEERİNG - 2.CLASS\Data Structure\Project\Veri Ypıları Projeeee\142802029-142802011\142802029-142802011\obj\Debug\_142802029_142802011.frmBasvuruYap.resources
+C:\Users\Hüseyin\Desktop\CBÜ SOFTWARE ENGİNEERİNG - 2.CLASS\Data Structure\Project\Veri Ypıları Projeeee\142802029-142802011\142802029-142802011\obj\Debug\_142802029_142802011.frmDetaylar.resources
+C:\Users\Hüseyin\Desktop\CBÜ SOFTWARE ENGİNEERİNG - 2.CLASS\Data Structure\Project\Veri Ypıları Projeeee\142802029-142802011\142802029-142802011\obj\Debug\_142802029_142802011.frmIlanVer.resources
+C:\Users\Hüseyin\Desktop\CBÜ SOFTWARE ENGİNEERİNG - 2.CLASS\Data Structure\Project\Veri Ypıları Projeeee\142802029-142802011\142802029-142802011\obj\Debug\_142802029_142802011.Properties.Resources.resources
+C:\Users\Hüseyin\Desktop\CBÜ SOFTWARE ENGİNEERİNG - 2.CLASS\Data Structure\Project\Veri Ypıları Projeeee\142802029-142802011\142802029-142802011\obj\Debug\142802029-142802011.csproj.GenerateResource.Cache
+C:\Users\Hüseyin\Desktop\CBÜ SOFTWARE ENGİNEERİNG - 2.CLASS\Data Structure\Project\Dönem Projesi-İnsan Kaynakları Bilgi Sistemi\142802029-142802011\142802029-142802011\bin\Debug\142802029-142802011.exe.config
+C:\Users\Hüseyin\Desktop\CBÜ SOFTWARE ENGİNEERİNG - 2.CLASS\Data Structure\Project\Dönem Projesi-İnsan Kaynakları Bilgi Sistemi\142802029-142802011\142802029-142802011\obj\Debug\142802029-142802011.exe
+C:\Users\Hüseyin\Desktop\CBÜ SOFTWARE ENGİNEERİNG - 2.CLASS\Data Structure\Project\Dönem Projesi-İnsan Kaynakları Bilgi Sistemi\142802029-142802011\142802029-142802011\obj\Debug\142802029-142802011.pdb
